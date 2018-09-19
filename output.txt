@@ -1,0 +1,9 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java -javaagent:/Users/neerajkeshav/Library/Caches/IdeaIC2018.2/testAgent/intellij-coverage-agent-1.0.470.jar=/private/var/folders/5x/p_9pf_sj5c1dq9myg_8xnc_w0000gn/T/coverage1426args "-javaagent:/Users/neerajkeshav/Desktop/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=51534:/Users/neerajkeshav/Desktop/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/neerajkeshav/IdeaProjects/silo/out/production/silo Main
+---- IntelliJ IDEA coverage runner ---- 
+sampling ...
+include patterns:
+exclude patterns:
+The amount of water each person should save each day in cubic meters is 0.07233200812205862 for 28.0 days.
+The amount of water each person should save each day in gallons is 19.108091249620472 for 28.0 days.
+
+Process finished with exit code 0
